@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <meta name="viewpoint" content="width=device-width, initial-scale=1.0"/>
+ 
+ <title> My First Blog Welcome </title>
+  
+  <link rel="stylesheet" href="css styles/main.css">
+  <link rel="stylesheet" href="css styles/footer.css">
+  <link rel="stylesheet" href="css styles/navbar.css">
+ <heading>Reprogramming Myself</heading>
+ <br>
+ <br>
+ <br>
+ <br>
+ 
+  <blockquote cite="https://www.bbc.com/nada-27610770"><h1><em>"Success is liking yourself, liking what you do, and liking how you do it.”</em></h1></blockquote>
+  
+  <img src="./images/how-to-factory-reset-windows-laptop-hero1551309578235.jpg" alt ="reset button">
+ 
+    </div>
+    </nav>
+    <div class="container">
+     <ul>
+       <li> <a href="https://www.linkedin.com/in/jessica-dunson-987501b2/" target="_blank">Connect with me on LinkedIn</a> </li>
+       <img src="./social media/linkedin.png" alt="linkedin"> 
+     
+       <li> <a href="https://twitter.com/BelierBeau" target="_blank">Follow me </a> </li>
+       <img src="./social media/twitter.png" alt="Twitter">
+    </ul> 
+     </nav>
+   </div>
+   </header>
+ 
+ <section id="showcase">
+   <div class="container">
+ 
+    
+ <p>I invite you to come along as I run diagnose, upgrade and reprogram myself </p>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+   </div>
+ </section>
+ 
+ </body>
+ <section id="boxes">
+   <div class="container">
+     <div class="box">
+       <h3>Upgrading my Hardware</h3>
+       <br>
+       <br>
+       <br>
+       
+       <p>Lorem ipsum dolofr sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <p/>
+     </div>
+        </section>
+   </div>
+           
+ <section id="boxes">
+   <div class="container">
+     <div class="box">  
+            <li>The oldest of five children 
+   <li>The first to start the third generation maternally and fraternally </lil>
+   
+   <em>LITERALLY </em>A Nature Born Leader</em> 
+ </div>
+        </section>
+   </div>
+ </div>
+ 
+ <section id="boxes">
+   <div class="container">
+     <div class="box">
+        
+       
+     
+       <h1> Running Anti-Virus </h1>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <img src="./images/computer-hardware-update-1.jpg" alt="update pc">
+       <br>
+       <br>
+       <br>
+       <br>
+ <p>After carefully re-evaluating my life I decided to <em>reprogram</em>. The first step of my process was to accept that I needed to change in order to be a better me.I wanted more which required mores o that means no more settling that I would focus and accomplish my goals. Reprograming myself has shown me the spamware that has continue to alter my plans so as I run my antivuirus.
+     </div>
+     </section>
+   
+   
+   
+   <h1>Install is ready </h1>
+   <br>
+   <br>
+   <br>
+   <img src="./images/IMG_0092.jpeg" alt="black woman in code"> <p>I invite you to come along as I run <strong>diagnose,upgrade and reprogram my software</strong> </p>
+   
+   
+ <section id="boxes">
+   <div class="container">
+     <div class="box">
+       <p> </p>
+   
+     </section>
+   </div>
+   <footer> 
+     <br>
+     <br>
+     <br>
+     <p>FRONT END WEB DEVELOPER is loading  </p>
+   
+   </footer>
+ </html>
